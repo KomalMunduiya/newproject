@@ -1,0 +1,8 @@
+101, Pencil, Apsara Pencil, 50,  Apsara,   Stationary,      100 
+102, Pen,    Reynolds Pens, 6,   Reynolds, Stationary,      25
+103, Pencil, Camlin Pencil, 10,  Camlin,   Stationary,      120
+104, Color,  Natraj,        20,  Natraj,   Stationary,      10  
+105, Scissor, Steel fibre,  10,  Natraj,   Stationary,      11
+106, Scale,   Camlin,       5,   Camlin,   Stationary,      20
+107, Color,   Water Color,  35,  Camlin,   Stationary,      100
+108, Scale,   Plastic scale,5,   Komal,   Stationary,       15       
